@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deyaa2006
+- 👋 Hi, I’m Exon Bot 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -30,11 +30,12 @@ global.socialm = "hacker_297: ALZOUBI " //ur github or insta name
 global.location = "Asia, Jordan, Amman " //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.ownernomer = "+962795100927" //ur number
+global.premium = ['+962795100927'] //ur premium number
+global.botname = '❤️Exon Bot❤️' //ur bot name
+global.linkz =https://www.facebook.com/profile.php?id=100065302673515
+//your theme url which will be displayed on messenger 
+global.websitex = "
 global.themeemoji = "♥" //ur theme emoji
 global.packname = "⍣ضياء الوزير يروحي⍣" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
